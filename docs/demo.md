@@ -22,4 +22,6 @@ blad blad blad
 
 Ecuación:
 
-$$ x^ 2 $$
+$ x^ 2 $
+
+Este es un vínculo a google ( https://www.google.com/ )
