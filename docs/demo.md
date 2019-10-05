@@ -1,4 +1,4 @@
-#Titulo principal
+## Titulo principal
 
 ## Subtitulo 1
 
@@ -12,7 +12,7 @@ blad blad blad
 *viñeta 2
 *viñeta 3
 
-##Subtítulo 3
+## Subtítulo 3
 
 [ ] Lista de chequeo 1
 
