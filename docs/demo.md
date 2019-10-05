@@ -8,9 +8,9 @@ bla bla blad
 
 blad blad blad
 
-*viñeta 1 
-*viñeta 2
-*viñeta 3
+* viñeta 1 
+* viñeta 2
+* viñeta 3
 
 ## Subtítulo 3
 
@@ -18,7 +18,7 @@ blad blad blad
 
 [ ] Lista de chequeo 2
 
-##Subtítulo 3
+## Subtítulo 3
 
 Ecuación:
 
