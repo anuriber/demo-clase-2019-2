@@ -14,12 +14,12 @@ blad blad blad
 
 ## Subtítulo 3
 
-[ ] Lista de chequeo 1
+- [X] Lista de chequeo 1
 
-[ ] Lista de chequeo 2
+- [ ] Lista de chequeo 2
 
 ## Subtítulo 3
 
 Ecuación:
 
-$$ x^ 2$$
+$$ x^ 2 $$
